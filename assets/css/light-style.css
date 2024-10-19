@@ -1,8 +1,3 @@
-/* --------------------------------------------------------------------
-* Template Light Stylesheet
--------------------------------------------------------------------- */
-
-
 /* Table of Content
 ====================
 * Global variables
@@ -47,8 +42,8 @@
 /* ------------------------------------------------------------- */
 
 :root {
-	--tt-main-bg-color: #f3f3f3; /* Template background color (you can play with some light variations). */
-	--tt-main-color: #ad9d80; /* Template main color. */
+	--tt-main-bg-color: #f3f3f3; /* background color (you can play with some light variations). */
+	--tt-main-color: #ad9d80; /* main color. */
 	--tt-ghost-color: #e9e8e5; /* Title ghost color. */
 }
 

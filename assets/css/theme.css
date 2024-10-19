@@ -75,8 +75,8 @@
 /* ------------------------------------------------------------- */
 
 :root {
-	--tt-main-bg-color: #0a0a0a; /* Template background color. */
-	--tt-main-color: #ad9d80; /* Template main color. */
+	--tt-main-bg-color: #0a0a0a; /* background color. */
+	--tt-main-color: #ad9d80; /* main color. */
 }
 
 
@@ -10228,7 +10228,7 @@ body.tt-np-image-on .tt-next-project.tt-np-image-is-light .tt-np-subtitle {
 
 
 /* ------------------------------------------------------------- *
- * Template style switch button
+ * style switch button
 /* ------------------------------------------------------------- */
 
 .tt-style-switch {

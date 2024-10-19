@@ -1,17 +1,3 @@
-/* ---------------------------------------------------------------------------------------
-* Template Helper CSS
-* 
-* Template:		Nui - Creative Portfolio Showcase HTML Website Template
-* Author:		Themetorium
-* URL:			https://themetorium.net/
-*
-* Secondary Font: 'Syne', sans-serif;
-* Main color:  #b12c0d;
-*
-* You are free to use these extra prepared helper classes to customize your web site.
---------------------------------------------------------------------------------------- */
-
-
 /* Table of Content
 ====================
 * Global variables
@@ -42,7 +28,7 @@
 /* ------------------------------------------------------------- */
 
 :root {
-	--tt-main-color: #b12c0d; /* Template main color. */
+	--tt-main-color: #b12c0d; /* main color. */
 }
 
 
@@ -720,7 +706,7 @@ p.text-xxxlg {
 
 .text-main, 
 .text-primary { 
-	color: var(--tt-main-color) !important;  /* Template main color */
+	color: var(--tt-main-color) !important;  /* main color */
 }
 a.text-primary:focus, 
 a.text-primary:hover { 
@@ -784,7 +770,7 @@ a.tt-link-2:focus {
  * Link color classes
 /* ------------------------------------------------------------- */
 
-a.link-main { color: var(--tt-main-color) !important;} /* Template main color */
+a.link-main { color: var(--tt-main-color) !important;} /* main color */
 a.link-white { color: #FFF !important; }
 a.link-gray { color: #888 !important; }
 a.link-gray-2 { color: #CCC !important; }
@@ -823,7 +809,7 @@ a.link-pink:hover {
  * Background color classes
 /* ------------------------------------------------------------- */
 
-.bg-main, .bg-primary { background-color: var(--tt-main-color) !important; } /* Template main color */
+.bg-main, .bg-primary { background-color: var(--tt-main-color) !important; } /* main color */
 .bg-secondary { background-color: #6c757d !important; }
 
 /* bg white */
@@ -1029,11 +1015,11 @@ a.link-pink:hover {
 .border-right-outset { border-right-style: outset !important; }
 
 /* border color classes */
-.border-main { border-color: var(--tt-main-color) !important; } /* template main color */
-.border-top-main { border-top-color: var(--tt-main-color) !important; } /* template main color */
-.border-bottom-main { border-bottom-color: var(--tt-main-color) !important; } /* template main color */
-.border-left-main { border-left-color: var(--tt-main-color) !important; } /* template main color */
-.border-right-main { border-right-color: var(--tt-main-color) !important; } /* template main color */
+.border-main { border-color: var(--tt-main-color) !important; } /* main color */
+.border-top-main { border-top-color: var(--tt-main-color) !important; } /* main color */
+.border-bottom-main { border-bottom-color: var(--tt-main-color) !important; } /* main color */
+.border-left-main { border-left-color: var(--tt-main-color) !important; } /* main color */
+.border-right-main { border-right-color: var(--tt-main-color) !important; } /* main color */
 
 .border-white { border-color: #FFF !important; }
 .border-top-white { border-top-color: #FFF !important; }

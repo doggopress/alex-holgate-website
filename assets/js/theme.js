@@ -1,12 +1,3 @@
-/* =================================================================
-* Template JS
-* 
-* Template:    Nui - Creative Portfolio Showcase HTML Website Template
-* Author:      Themetorium
-* URL:         https://themetorium.net/
-================================================================= */
-
-
 // Table of Content
 // =================
 // Detect browser
@@ -42,7 +33,7 @@
 // Defer videos
 // Forms
 // Magic cursor
-// Template style switch
+// style switch
 // Miscellaneous
 //
 
@@ -3239,8 +3230,8 @@
 
 
 	// ==========================================================================
-	// Template style switch
-	// NOTE: Remove this code if you do not want to use the template light style.
+	// style switch
+	// NOTE: Remove this code if you do not want to use the light style.
 	// ==========================================================================
 
 	// Display style switch button
@@ -3302,7 +3293,7 @@
 
 	}
 
-	// End template style switch
+	// End style switch
 	// ==========================
 
 
